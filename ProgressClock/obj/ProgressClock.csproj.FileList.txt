@@ -1,0 +1,11 @@
+obj\Debug\ClockOpaque.exe
+obj\Debug\ClockOpaque.pdb
+bin\Debug\ClockOpaque.exe
+bin\Debug\ClockOpaque.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProgressClock.csproj.GenerateResource.Cache
+obj\Debug\Interop.SpeechLib.dll
+obj\Debug\ProgressClock.csproj.ResolveComReference.cache
+bin\Debug\Interop.SpeechLib.dll
+bin\Debug\ClockOpaque.exe.config
+obj\Debug\ClockOpaque.formClockOpaque.resources

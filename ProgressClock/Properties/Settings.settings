@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ClockOpaque.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AlSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="RSSFeeds" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">124</Value>
+    </Setting>
+    <Setting Name="test" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">222</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
